@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25797'
     url: http://www.gutenberg.org/2009/agents/25797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23302#The-Dumpy-Books-for-Children-No.-7.-A-Flower-Book
 gutenberg_bookshelf:
 - Children's Picture Books
 - Horticulture
